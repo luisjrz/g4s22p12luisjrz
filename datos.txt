@@ -1,0 +1,3 @@
+{"nombre":"luis","edad":29,"correo":"ljysuifxv@ohuyw"}
+{"nombre":"mauricio ","edad":19,"correo":"ljysuifxv@ohuy"}
+{"nombre":"luigxt","edad":6096,"correo":"fhudpd"}
